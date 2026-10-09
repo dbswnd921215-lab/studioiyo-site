@@ -1,0 +1,172 @@
+{
+  "siteName": "studioiyo",
+  "siteUrl": "https://studioiyo.com",
+  "defaultLang": "auto",
+  "seo": {
+    "title": "studioiyo",
+    "description": "studioiyo(스튜디오 이요)는 질문과 제주 바다 캐릭터로 자기 기준의 삶을 응원하는 IP 콘텐츠 스튜디오입니다. 제주 칠성로 용궁건강원 운영.",
+    "ogDescription": "제주에서 내 캐릭터를 만나는 가장 유쾌한 방법",
+    "ogImage": "",
+    "indexable": true,
+    "naverVerification": "",
+    "googleVerification": ""
+  },
+  "analytics": {
+    "ga4": "",
+    "naver": ""
+  },
+  "customHead": "",
+  "contact": {
+    "email": "iyo.coo@studioiyo.com",
+    "instagram": "kokoromarket_yuii"
+  },
+  "company": {
+    "name": {
+      "ko": "이요(IYO)",
+      "en": "IYO"
+    },
+    "ceo": "이유림",
+    "bizNo": "819-10-03337",
+    "address": {
+      "ko": "제주특별자치도 제주시 신사로 82 (제주콘텐츠진흥원) B1, 1호",
+      "en": "Room 1, B1, 82 Sinsa-ro (Jeju Creative Content Agency), Jeju City, Jeju"
+    },
+    "copyright": "© 2026 studioiyo. All rights reserved.",
+    "slogan": "Made in Jeju, under the sea."
+  },
+  "store": {
+    "name": {
+      "ko": "용궁건강원",
+      "en": "Yonggung Health Center"
+    },
+    "address": {
+      "ko": "제주시 칠성로길 20, 1층",
+      "en": "1F, 20 Chilseong-ro-gil, Jeju City"
+    },
+    "addressFull": {
+      "ko": "제주특별자치도 제주시 칠성로길 20, 1층",
+      "en": "1F, 20 Chilseong-ro-gil, Jeju City, Jeju"
+    },
+    "hours": "11:00 – 20:00",
+    "closed": {
+      "ko": "",
+      "en": ""
+    },
+    "price": {
+      "ko": "기본 13,000원 · 프리미엄 18,000원",
+      "en": "Basic ₩13,000 · Premium ₩18,000"
+    },
+    "note": {
+      "ko": "모든 체험 1시간 이내 · 4개 국어 지원",
+      "en": "Every program under an hour · Available in 4 languages"
+    },
+    "naverMap": "https://map.naver.com/p/search/%EC%A0%9C%EC%A3%BC%EC%8B%9C%20%EC%B9%A0%EC%84%B1%EB%A1%9C%EA%B8%B8%2020",
+    "googleMap": "https://www.google.com/maps/search/?api=1&query=20+Chilseong-ro-gil+Jeju"
+  },
+  "banner": {
+    "enabled": false,
+    "text": {
+      "ko": "",
+      "en": ""
+    },
+    "link": "",
+    "linkLabel": {
+      "ko": "자세히 보기",
+      "en": "Details"
+    },
+    "start": "",
+    "end": "",
+    "tone": "coral",
+    "closable": true
+  },
+  "menu": {
+    "header": [
+      {
+        "label": {
+          "ko": "소개",
+          "en": "About"
+        },
+        "href": "/#about"
+      },
+      {
+        "label": {
+          "ko": "캐릭터",
+          "en": "Characters"
+        },
+        "href": "/#nine"
+      },
+      {
+        "label": {
+          "ko": "용궁건강원",
+          "en": "Health Center"
+        },
+        "href": "/#visit"
+      },
+      {
+        "label": {
+          "ko": "하는 일",
+          "en": "What we do"
+        },
+        "href": "/#work"
+      }
+    ],
+    "cta": {
+      "label": {
+        "ko": "문의하기",
+        "en": "Contact"
+      },
+      "href": "/#contact"
+    },
+    "footer": [
+      {
+        "label": {
+          "ko": "소개",
+          "en": "About"
+        },
+        "href": "/#about"
+      },
+      {
+        "label": {
+          "ko": "용궁체질 캐릭터",
+          "en": "Characters"
+        },
+        "href": "/#nine"
+      },
+      {
+        "label": {
+          "ko": "용궁건강원",
+          "en": "Yonggung Health Center"
+        },
+        "href": "/#visit"
+      },
+      {
+        "label": {
+          "ko": "문의",
+          "en": "Contact"
+        },
+        "href": "/#contact"
+      }
+    ]
+  },
+  "footer": {
+    "line": {
+      "ko": "우리 모두가 나다운 내일을 선택할 수 있도록.",
+      "en": "So that all of us can choose a tomorrow that feels like ourselves."
+    },
+    "lampImage": "/assets/characters/hanchi.webp"
+  },
+  "boards": [
+    {
+      "id": "notice",
+      "name": {
+        "ko": "공지사항",
+        "en": "Notice"
+      },
+      "desc": {
+        "ko": "studioiyo와 용궁건강원의 새 소식을 전해요.",
+        "en": "News from studioiyo and the Yonggung Health Center."
+      },
+      "pill": "Notice"
+    }
+  ]
+}

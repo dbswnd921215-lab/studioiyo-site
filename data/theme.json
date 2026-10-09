@@ -1,0 +1,32 @@
+{
+  "colors": {
+    "sand": "#F4ECDC",
+    "paper": "#FBF7EF",
+    "ink": "#2A2420",
+    "ink_soft": "#6E625A",
+    "coral": "#C8533D",
+    "coral_line": "#D98A77",
+    "card": "#8194B1",
+    "slate": "#34445F",
+    "lavender": "#C9BCE8",
+    "butter": "#F3CC7E",
+    "sky": "#BCDDEA",
+    "peach": "#F5C9A3",
+    "seaglass": "#CFE2CF",
+    "lilac": "#DDB9D7",
+    "deep": "#17324A"
+  },
+  "fonts": {
+    "en": "League Spartan",
+    "ko": "Sunflower",
+    "body": "Noto Sans KR"
+  },
+  "size": {
+    "base": 16,
+    "heading": 1,
+    "radius": 26,
+    "radiusSm": 18,
+    "maxWidth": 1280,
+    "gap": 1
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "characters": [
+    {
+      "id": "okdom",
+      "image": "/assets/characters/okdom.webp",
+      "wide": true,
+      "tint": "#F7D6AE",
+      "name": {
+        "ko": "옥돔인",
+        "en": "Okdom-in"
+      },
+      "species": {
+        "ko": "옥돔",
+        "en": "Red tilefish"
+      },
+      "type": {
+        "ko": "고운 완성러",
+        "en": "The Graceful Finisher"
+      },
+      "line": {
+        "ko": "중요한 건 대충 못 넘기고, 아름답게 완성해야 마음이 놓이는 사람",
+        "en": "Can't let important things slide; at ease only once it's beautifully done"
+      },
+      "grow": {
+        "ko": "완벽하지 않아도 나는 충분히 괜찮다.",
+        "en": "Even when it isn't perfect, I am enough."
+      }
+    },
+    {
+      "id": "seongge",
+      "image": "/assets/characters/seongge.webp",
+      "wide": false,
+      "tint": "#D9D8D5",
+      "name": {
+        "ko": "성게인",
+        "en": "Seongge-in"
+      },
+      "species": {
+        "ko": "성게",
+        "en": "Sea urchin"
+      },
+      "type": {
+        "ko": "속마음 감지러",
+        "en": "The Heart Reader"
+      },
+      "line": {
+        "ko": "말하지 않은 마음의 온도를 먼저 알아차리는 사람",
+        "en": "Notices the temperature of feelings nobody has said out loud"
+      },
+      "grow": {
+        "ko": "내 마음도 누군가에게 알려줘도 괜찮다.",
+        "en": "It's okay to let someone know how I feel, too."
+      }
+    },
+    {
+      "id": "ttaksaeu",
+      "image": "/assets/characters/ttaksaeu.webp",
+      "wide": false,
+      "tint": "#F6D0BE",
+      "name": {
+        "ko": "딱새우인",
+        "en": "Ttaksaeu-in"
+      },
+      "species": {
+        "ko": "딱새우",
+        "en": "Armored shrimp"
+      },
+      "type": {
+        "ko": "끝내 해냄러",
+        "en": "The Gritty Achiever"
+      },
+      "line": {
+        "ko": "작게 시작해도 결국 자기 힘으로 결과를 만들어 내는 사람",
+        "en": "Starts small, yet gets results with their own strength in the end"
+      },
+      "grow": {
+        "ko": "나는 증명하려고만 하는 사람이 아니라, 결국 완성해 내는 사람이다.",
+        "en": "I'm not just out to prove myself. I'm someone who gets it done."
+      }
+    },
+    {
+      "id": "hanchi",
+      "image": "/assets/characters/hanchi.webp",
+      "wide": false,
+      "tint": "#F0E9D0",
+      "name": {
+        "ko": "한치인",
+        "en": "Hanchi-in"
+      },
+      "species": {
+        "ko": "한치",
+        "en": "Mitre squid"
+      },
+      "type": {
+        "ko": "달빛 감성러",
+        "en": "The Moonlight Dreamer"
+      },
+      "line": {
+        "ko": "감정이 깊고 섬세해서 순간의 의미를 오래 품는 사람",
+        "en": "Feels deeply and holds on to the meaning of a moment for a long time"
+      },
+      "grow": {
+        "ko": "감정은 깊어도 나는 그 안에 갇히지 않는다.",
+        "en": "My feelings run deep, but I'm not trapped in them."
+      }
+    },
+    {
+      "id": "galchi",
+      "image": "/assets/characters/galchi.webp",
+      "wide": false,
+      "tint": "#E2E3E1",
+      "name": {
+        "ko": "은갈치인",
+        "en": "Eungalchi-in"
+      },
+      "species": {
+        "ko": "은갈치",
+        "en": "Silver hairtail"
+      },
+      "type": {
+        "ko": "계획 전략가",
+        "en": "The Strategist"
+      },
+      "line": {
+        "ko": "머릿속에 구조와 계획이 잡혀야 움직이는 사람",
+        "en": "Moves only once there's a structure and a plan in their head"
+      },
+      "grow": {
+        "ko": "다 알지 못해도 시작할 수 있다.",
+        "en": "I can start without knowing everything."
+      }
+    },
+    {
+      "id": "bulsora",
+      "image": "/assets/characters/bulsora.webp",
+      "wide": false,
+      "tint": "#E5CDE2",
+      "name": {
+        "ko": "뿔소라인",
+        "en": "Bulsora-in"
+      },
+      "species": {
+        "ko": "뿔소라",
+        "en": "Horned turban"
+      },
+      "type": {
+        "ko": "혹시몰라 보부상",
+        "en": "The Just-in-Case Packer"
+      },
+      "line": {
+        "ko": "불안해서라도 빠진 것 없이 미리 챙겨 두는 사람",
+        "en": "Packs everything ahead of time, if only out of worry"
+      },
+      "grow": {
+        "ko": "불안해도 나는 한 걸음 나아갈 수 있다.",
+        "en": "Even when I'm anxious, I can take one step forward."
+      }
+    },
+    {
+      "id": "dolgorae",
+      "image": "/assets/characters/dolgorae.webp",
+      "wide": true,
+      "tint": "#CDE6F0",
+      "name": {
+        "ko": "남방큰돌고래인",
+        "en": "Dolgorae-in"
+      },
+      "species": {
+        "ko": "남방큰돌고래",
+        "en": "Bottlenose dolphin"
+      },
+      "type": {
+        "ko": "인간비타민",
+        "en": "The Human Vitamin"
+      },
+      "line": {
+        "ko": "같이 있으면 공기가 밝아지고 사람들이 다시 움직이게 되는 사람",
+        "en": "Brightens the air and gets everyone moving again"
+      },
+      "grow": {
+        "ko": "밝은 나도 좋고, 가끔 가라앉는 나도 괜찮다.",
+        "en": "The bright me is good, and the sometimes-low me is okay too."
+      }
+    },
+    {
+      "id": "dolmuneo",
+      "image": "/assets/characters/dolmuneo.webp",
+      "wide": false,
+      "tint": "#F4C3B5",
+      "name": {
+        "ko": "돌문어인",
+        "en": "Dolmuneo-in"
+      },
+      "species": {
+        "ko": "돌문어",
+        "en": "Octopus"
+      },
+      "type": {
+        "ko": "의리 해결사",
+        "en": "The Loyal Fixer"
+      },
+      "line": {
+        "ko": "내 사람 일에는 바로 팔 걷고 나서는 사람",
+        "en": "Rolls up every sleeve the moment their people need help"
+      },
+      "grow": {
+        "ko": "다 책임지지 않아도 나는 강한 사람이다.",
+        "en": "I'm strong even when I don't carry it all."
+      }
+    },
+    {
+      "id": "jeonbok",
+      "image": "/assets/characters/jeonbok.webp",
+      "wide": true,
+      "tint": "#DDEBD6",
+      "name": {
+        "ko": "전복인",
+        "en": "Jeonbok-in"
+      },
+      "species": {
+        "ko": "전복",
+        "en": "Abalone"
+      },
+      "type": {
+        "ko": "슬로우 장인",
+        "en": "The Slow Artisan"
+      },
+      "line": {
+        "ko": "느리지만 오래 지키고, 끝난 것에도 다시 시간을 주는 사람",
+        "en": "Slow but steady; keeps things long and gives even endings more time"
+      },
+      "grow": {
+        "ko": "놓는 것도 나를 지키는 방식이다.",
+        "en": "Letting go is one way of looking after myself."
+      }
+    }
+  ]
+}

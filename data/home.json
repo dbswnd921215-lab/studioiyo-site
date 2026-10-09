@@ -1,0 +1,405 @@
+{
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "visible": true,
+      "bg": ""
+    },
+    {
+      "id": "about",
+      "type": "about",
+      "visible": true,
+      "bg": ""
+    },
+    {
+      "id": "characters",
+      "type": "characters",
+      "visible": true,
+      "bg": ""
+    },
+    {
+      "id": "visit",
+      "type": "visit",
+      "visible": true,
+      "bg": ""
+    },
+    {
+      "id": "work",
+      "type": "work",
+      "visible": true,
+      "bg": ""
+    },
+    {
+      "id": "news",
+      "type": "news",
+      "visible": true,
+      "bg": ""
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "visible": true,
+      "bg": ""
+    }
+  ],
+  "hero": {
+    "meta": [
+      "Character IP Studio",
+      "Jeju Island, KR",
+      "Est. 2026"
+    ],
+    "showCutouts": true,
+    "tagline": {
+      "ko": "제주에서 내 캐릭터를 만나는\n가장 유쾌한 방법",
+      "en": "The most delightful way to meet your character in Jeju"
+    },
+    "buttons": [
+      {
+        "label": {
+          "ko": "내 캐릭터 찾기",
+          "en": "Find your character"
+        },
+        "href": "/#nine",
+        "style": "primary",
+        "arrow": true
+      },
+      {
+        "label": {
+          "ko": "용궁건강원 가는 길",
+          "en": "Visit the Health Center"
+        },
+        "href": "/#visit",
+        "style": "ghost",
+        "arrow": false
+      }
+    ],
+    "showParade": true
+  },
+  "about": {
+    "pill": "About",
+    "eyebrow": {
+      "ko": "회사 소개",
+      "en": "The studio"
+    },
+    "title": {
+      "ko": "답을 알려 주는 대신, 나를 돌아보게 하는 질문을 만듭니다.",
+      "en": "Instead of giving answers, we make questions that help you look at yourself."
+    },
+    "lead": {
+      "ko": "studioiyo는 질문과 캐릭터로, 사람들이 평가와 비교에서 벗어나 자기 기준으로 삶을 선택하도록 돕는 IP 콘텐츠 스튜디오예요. 이름의 IYO는 I, YOU, OUR. 나로부터 시작해 우리 모두의 행복한 삶을 응원한다는 뜻을 담았어요.",
+      "en": "studioiyo is an IP content studio. Through questions and characters, we help people step away from ratings and comparisons and choose life on their own terms. IYO stands for I, YOU, OUR: starting from me, cheering on a happy life for all of us."
+    },
+    "iyo": [
+      {
+        "key": "I",
+        "text": {
+          "ko": "나로부터 시작해",
+          "en": "It starts from me,"
+        }
+      },
+      {
+        "key": "YOU",
+        "text": {
+          "ko": "너에게 닿고",
+          "en": "reaches you,"
+        }
+      },
+      {
+        "key": "OUR",
+        "text": {
+          "ko": "우리 모두의 행복한 삶을 응원합니다",
+          "en": "and cheers on a happy life for all of us."
+        }
+      }
+    ],
+    "factsTitle": "Company",
+    "facts": [
+      {
+        "k": {
+          "ko": "설립",
+          "en": "Founded"
+        },
+        "v": {
+          "ko": "2026.04.13",
+          "en": ""
+        }
+      },
+      {
+        "k": {
+          "ko": "기반",
+          "en": "Based in"
+        },
+        "v": {
+          "ko": "제주특별자치도 제주시",
+          "en": "Jeju City, Korea"
+        }
+      },
+      {
+        "k": {
+          "ko": "분야",
+          "en": "Field"
+        },
+        "v": {
+          "ko": "캐릭터 IP · 관광 콘텐츠 · 굿즈 · 체험",
+          "en": "Character IP · Travel content · Goods · Experiences"
+        }
+      }
+    ],
+    "milestonesTitle": "Milestones",
+    "milestones": [
+      {
+        "ko": "제주콘텐츠진흥원 입주기업 선정",
+        "en": "Resident company, Jeju Creative Content Agency"
+      },
+      {
+        "ko": "캐릭터 저작권 등록 9건",
+        "en": "9 character copyrights registered"
+      },
+      {
+        "ko": "캐릭터 IP 해외 수출 (일본 LINE)",
+        "en": "Character IP exported to LINE Japan"
+      }
+    ]
+  },
+  "characters": {
+    "pill": "Characters",
+    "eyebrow": {
+      "ko": "캐릭터",
+      "en": "The cast"
+    },
+    "title": {
+      "ko": "아홉 가지 용궁체질",
+      "en": "Nine Yonggung types"
+    },
+    "desc": {
+      "ko": "“이 캐릭터 귀엽다”에서 “이 캐릭터 완전 나잖아”로. 제주 바다 생물마다 성격과 강점, 불안과 성장 방향이 있어요.",
+      "en": "From “this one's cute” to “this one is totally me.” Each Jeju sea creature has its own personality, strengths, worries and way to grow."
+    }
+  },
+  "visit": {
+    "pill": "Space",
+    "eyebrow": {
+      "ko": "첫 번째 오프라인 공간",
+      "en": "Our first space"
+    },
+    "story": {
+      "ko": "현대 사회에 지친 토끼와 거북이가 바닷속 용궁으로 돌아와, 사람들에게 질문과 응원을 건네요. 용궁건강원은 그 이야기를 제주 칠성로에서 직접 만나는 첫 번째 공간이에요.",
+      "en": "Worn out by modern life, the Rabbit and the Turtle returned to the Dragon Palace under the sea, and now they hand out questions and cheers. Yonggung Health Center is the first place to meet their story in person, on Chilseong-ro in Jeju."
+    },
+    "steps": [
+      {
+        "ko": "무료 용궁체질검사",
+        "en": "Free Yonggung type test"
+      },
+      {
+        "ko": "나와 닮은 캐릭터 확인",
+        "en": "Meet the character like you"
+      },
+      {
+        "ko": "지금 필요한 질문 고르기",
+        "en": "Pick the question you need now"
+      },
+      {
+        "ko": "나만의 결과물 만들어 가져가기",
+        "en": "Make your own keepsake to take home"
+      }
+    ],
+    "showSlip": true,
+    "slip": {
+      "title": {
+        "ko": "오늘의 처방전",
+        "en": "Today's prescription"
+      },
+      "dose": {
+        "ko": "하루 한 번, 소리 내어 읽기",
+        "en": "Read aloud, once a day"
+      },
+      "foot": {
+        "ko": "재미로 뽑는 오늘의 문장이에요. 진짜 내 체질은 용궁건강원에서 확인하세요.",
+        "en": "Just for fun. Find your real type at the Health Center."
+      },
+      "button": {
+        "ko": "다시 뽑기",
+        "en": "Draw again"
+      },
+      "stamp": "용궁\n건강원"
+    }
+  },
+  "work": {
+    "pill": "Business",
+    "eyebrow": {
+      "ko": "사업 분야",
+      "en": "Business"
+    },
+    "title": {
+      "ko": "하는 일",
+      "en": "What we do"
+    },
+    "desc": {
+      "ko": "체험은 캐릭터를 만나는 입구이고, 질문과 캐릭터는 공간 밖으로 넓어지는 자산이에요.",
+      "en": "Experiences are the doorway to the characters. The questions and characters travel well beyond the space."
+    },
+    "items": [
+      {
+        "title": {
+          "ko": "캐릭터 IP · 세계관",
+          "en": "Character IP & world"
+        },
+        "body": {
+          "ko": "제주 해양생물 9종과 별주부전의 토끼·거북이를 새롭게 해석한 용궁 세계관. 감귤과 돌하르방 중심의 익숙한 제주 캐릭터에서 벗어나, 사람의 다리와 예상 밖의 비율, B급 유머로 기억되는 캐릭터를 만듭니다.",
+          "en": "A Dragon Palace world built from nine Jeju sea creatures and a fresh take on the Rabbit and Turtle folk tale. We step away from the usual tangerine and dol-hareubang mascots toward characters remembered for their human legs, odd proportions and B-grade humour."
+        },
+        "tags": [],
+        "color": "sky",
+        "image": "/assets/characters/dolgorae.webp",
+        "open": true
+      },
+      {
+        "title": {
+          "ko": "체험 콘텐츠",
+          "en": "Experiences"
+        },
+        "body": {
+          "ko": "용궁체질검사로 시작해 112개의 질문 중 지금 필요한 질문을 고르고, 나만의 결과물을 직접 만들어 가져가는 체험입니다.",
+          "en": "Start with the Yonggung type test, choose the questions you need from a set of 112, and make your own keepsake to take home."
+        },
+        "tags": [
+          {
+            "ko": "한글 족자",
+            "en": "Hangul scroll"
+          },
+          {
+            "ko": "여행 바인딩북",
+            "en": "Travel binding book"
+          },
+          {
+            "ko": "패브릭 굿즈",
+            "en": "Fabric goods"
+          },
+          {
+            "ko": "핀뱃지",
+            "en": "Pin badge"
+          }
+        ],
+        "color": "peach",
+        "image": "/assets/characters/ttaksaeu.webp",
+        "open": false
+      },
+      {
+        "title": {
+          "ko": "질문카드 · 굿즈",
+          "en": "Question cards & goods"
+        },
+        "body": {
+          "ko": "테스트로 찾은 ‘내 캐릭터’를 일상에서도 만날 수 있게, 캐릭터의 성격과 이야기가 고르는 이유가 되는 상품을 만듭니다.",
+          "en": "Products that let you keep meeting “your character” in everyday life, where each character's personality and story is the reason to choose it."
+        },
+        "tags": [
+          {
+            "ko": "질문카드",
+            "en": "Question cards"
+          },
+          {
+            "ko": "스티커",
+            "en": "Stickers"
+          },
+          {
+            "ko": "마스킹테이프",
+            "en": "Masking tape"
+          },
+          {
+            "ko": "캐릭터 지류",
+            "en": "Paper goods"
+          }
+        ],
+        "color": "coral",
+        "image": "/assets/characters/bulsora.webp",
+        "open": false
+      },
+      {
+        "title": {
+          "ko": "디지털",
+          "en": "Digital"
+        },
+        "body": {
+          "ko": "휴대폰으로 하는 캐릭터 성향 테스트, 용궁 네컷 앱, 4개 국어 번역 시스템으로 외국인 여행자도 같은 경험을 할 수 있게 합니다.",
+          "en": "A character personality test on your phone, the Yonggung four-cut photo app, and a four-language system so international travellers get the same experience."
+        },
+        "tags": [],
+        "color": "seaglass",
+        "image": "/assets/characters/hanchi.webp",
+        "open": false
+      },
+      {
+        "title": {
+          "ko": "협업 · 라이선싱",
+          "en": "Collabs & licensing"
+        },
+        "body": {
+          "ko": "캐릭터 상품을 넘어 제주 여행 경험 전체에 쓰일 수 있는 IP를 지향합니다.",
+          "en": "We aim for an IP that works across the whole Jeju travel experience, not only on merchandise."
+        },
+        "tags": [
+          {
+            "ko": "제주 한정 굿즈 공동 개발",
+            "en": "Jeju-only co-developed goods"
+          },
+          {
+            "ko": "공동 팝업",
+            "en": "Joint pop-ups"
+          },
+          {
+            "ko": "관광 캠페인 캐릭터",
+            "en": "Tourism campaign characters"
+          },
+          {
+            "ko": "숙박 웰컴키트",
+            "en": "Hotel welcome kits"
+          },
+          {
+            "ko": "여행자 성향 테스트",
+            "en": "Traveller personality tests"
+          }
+        ],
+        "color": "lilac",
+        "image": "/assets/characters/okdom.webp",
+        "open": false
+      }
+    ]
+  },
+  "news": {
+    "pill": "News",
+    "eyebrow": {
+      "ko": "소식",
+      "en": "News"
+    },
+    "title": {
+      "ko": "공지사항",
+      "en": "Notice"
+    },
+    "board": "notice",
+    "count": 3,
+    "hideWhenEmpty": true
+  },
+  "contact": {
+    "pill": "Contact",
+    "eyebrow": {
+      "ko": "문의",
+      "en": "Get in touch"
+    },
+    "title": {
+      "ko": "제주에서 같이 재밌는 걸 만들어요",
+      "en": "Let's make something fun in Jeju"
+    },
+    "body": {
+      "ko": "제주에서 함께 재미있는 것을 만들 브랜드와 기관을 기다립니다. 협업, 입점, 라이선싱 제안 모두 편하게 연락 주세요.",
+      "en": "We're looking for brands and organisations to make fun things with in Jeju. Collaborations, stockist enquiries and licensing proposals are all welcome."
+    },
+    "images": [
+      "/assets/characters/jeonbok.webp",
+      "/assets/characters/dolmuneo.webp",
+      "/assets/characters/seongge.webp"
+    ]
+  }
+}
